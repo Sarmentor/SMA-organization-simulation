@@ -11,9 +11,11 @@ Assume-se que todos os agentesde cada sector já têm alguns bens no início e s
 O mercado contém ainda o leiloeiro, que interage com os agentes. Estes comunicam a procura ao leiloeiro, que por sua vez estabelece o preço de cada bem. Este processo pode envolver várias iterações, mas quando os preços estabilizam, isto é, quando for atingido um equilíbrio entre a oferta e a procura, o processo termina. A seguir efetuam-seas trocas (compra ou venda), sendo estas feitas uma vez por semana.
 Assim, neste trabalho iremos variar certos parâmetros dafunção setup()(dados iniciais do mercado) para avaliar o efeito destas variações sobre o mesmo, assim como fazer alterações ao programa Agent.micro.econ por forma a responder a alguns objetivos propostos.
 
-for complete report please check following link:
-(Para relatório completo siga o link):
+for complete report please check following links:
+(Para relatório completo siga os links):
 
 https://www.researchgate.net/publication/325810463_SISTEMAS_MULTI-AGENTE_E_SIMULACAO_DE_ORGANIZACOES
+
+https://www.researchgate.net/publication/325810404_SISTEMAS_MULTI-AGENTE_E_SIMULACAO_DE_ORGANIZACOES_-_parte_2
 
 
